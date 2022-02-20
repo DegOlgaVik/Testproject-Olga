@@ -1,2 +1,2 @@
-# Testproject-Olga
+# Test-project-Olga
 Тестовый проект для обучения авто-тестам
